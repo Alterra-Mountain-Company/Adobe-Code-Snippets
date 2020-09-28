@@ -21,13 +21,13 @@ var visitor = Visitor.getInstance("AF963DE55A38EC390A495CD5@AdobeOrg", {
 
 function targetPageParams() {
   return {
-    "at_property": "c369b59d-0b50-ae00-8991-b2eb4abf372c"
+    "at_property": "8cd21f47-24a0-11e8-2fd7-a859a8eaf016"
    };
 }
 
 function targetPageParamsAll() {
   return {
-     "at_property_name": "STEAM"
+     "at_property_name": "SUGAR"
   };
 }
 
