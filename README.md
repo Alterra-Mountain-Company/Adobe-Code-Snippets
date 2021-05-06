@@ -2,6 +2,9 @@
 
 ## Update History  
 
+### May 6th, 2021
+* Updated Visitor API of all files to 5.2.0
+
 ### June 22nd  
 
 * Ikon Pass Visitor API to 4.6.0 at.js to 2.3.0
