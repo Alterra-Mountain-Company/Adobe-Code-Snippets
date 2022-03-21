@@ -2,9 +2,15 @@
 
 ## Update History  
 
+### March 21st, 2022
+* Updated Adobe Target (at.js) code for all files to 2.8.2
+* Updated Visitor API code for all files to 5.4.0
+
+### Aug 20th, 2021
+* Updated Adobe Target (at.js) code for all files to 2.6.1
+
 ### May 12th, 2021
 * Updated Adobe Target (at.js) code for Ikon to 2.4.1
-
 
 ### May 6th, 2021
 * Updated Visitor API of all files to 5.2.0
