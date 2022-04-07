@@ -2,6 +2,10 @@
 
 ## Update History  
 
+### April 7th, 2022
+* Added adobe_combined.js file that includes updated Visitor API (v5.4.0) & at.js (v2.8.2) code
+* '/// Custom Visitor Code' and  ‘/// Append Parameters to mbox Calls’ code sections are kept the same as provided by Alterra from https://cookies.alterramtnco.com/adobe_combined.js
+
 ### March 21st, 2022
 * Updated Adobe Target (at.js) code for all files to 2.8.2
 * Updated Visitor API code for all files to 5.4.0
