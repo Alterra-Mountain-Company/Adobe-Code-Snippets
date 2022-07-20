@@ -2,6 +2,9 @@
 
 ## Update History  
 
+### July 20th, 2022
+* Updated Adobe Target domain switch code to include alterramtnco.com at_property & at_property_name
+
 ### June 30th, 2022
 * Updated at.js code in adobe_combined.js file from v2.8.2 to v2.9.0
 * No updates to Visitor API code as latest version is still v5.4.0
