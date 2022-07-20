@@ -86,6 +86,10 @@ switch (adobeHost) {
     propertyId = "a1a231b7-5149-3125-0e51-9211d25b8700";
     propertyName = "WINP";
     break;
+  case domainTerm("alterramtnco"):
+    propertyId = "69416565-542c-0949-a2e3-e85301112e26";
+    propertyName = "Alterra Mountain Co";
+    break;
   default:
     console.log("No Valid Adobe Properties Found for ${adobeHost}.");
 }
