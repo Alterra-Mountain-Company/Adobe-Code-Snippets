@@ -2,6 +2,9 @@
 
 ## Update History  
 
+### July 21st, 2022
+* Created AT_ALTERRAMTNCO.txt file with Visitor API v5.4.0 and at.js v2.9.0 
+
 ### July 20th, 2022
 * Updated Adobe Target domain switch code to include alterramtnco.com at_property & at_property_name
 
