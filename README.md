@@ -2,6 +2,9 @@
 
 ## Update History  
 
+### September 21st, 2022
+* Updated Adobe Target domain switch code to include ikonpass.com at_property & at_property_name
+
 ### July 21st, 2022
 * Created AT_ALTERRAMTNCO.txt file with Visitor API v5.4.0 and at.js v2.9.0 
 
