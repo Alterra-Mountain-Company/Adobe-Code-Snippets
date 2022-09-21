@@ -26,6 +26,10 @@ const domainTerm = (term) => {
 };
 
 switch (adobeHost) {
+  case domainTerm("ikonpass"):
+    propertyId = "ccf61b76-8ef5-6af0-f6df-6a103cbe2c63";
+    propertyName = "IKON";
+    break;
   case domainTerm("stratton"):
     propertyId = "49c563fd-abd3-21c3-3768-d62d47c1a3c7";
     propertyName = "STRAT";
